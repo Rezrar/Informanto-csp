@@ -1,6 +1,4 @@
 # **Informanto Discord Bot**  
- 
-Thank you for using Informanto. This policy explains how the bot processes, stores, and uses data to ensure transparency and trust. Informanto does not collect or share user information beyond what is necessary for its functionality.  
 
 ## **Data Collected**  
 Informanto collects only the following data:  
