@@ -28,6 +28,4 @@ To invite INFORMANTO to your server, use this link:
 
 ---
 
-### Final Notes
-
 This project is under continuous development. Many of its features are experimental and adapted to changes in Discord’s ecosystem. INFORMANTO serves both as a tool and a testbed — designed to improve server operations through structured control and secure experimentation.
